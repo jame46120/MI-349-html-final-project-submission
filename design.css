@@ -228,6 +228,9 @@ table{
     h1, h2, h3, p, footer{
         font-size: 0.3em;
     }
+    p.contact{
+        font-size: 0.1em;
+    }
   }
   
   @media only screen and (min-width: 768px) {
